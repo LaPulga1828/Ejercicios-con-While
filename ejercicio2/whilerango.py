@@ -13,6 +13,7 @@ B=int(input("Digite el último número del rango: "))
 
 
 #processing and output
+
 if A<B:
     C_N=0
     A=A+1
@@ -22,4 +23,3 @@ if A<B:
      print("La cantidad de números del rango es: ", C_N) 
 else:
     print("El primer numero del rango es mas grande que el segundo")
-
