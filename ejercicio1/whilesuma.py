@@ -1,3 +1,10 @@
+"""Ejercicio 1:
+Programa para calcular la suma de los N primeros números naturales."""
+
+print("--------------------------------------")
+print("---------SUMATORIA DE NUMEROS --------")
+print("--------------------------------------")
+
 suma=0
 j=1
 
@@ -17,7 +24,7 @@ while (j<=n):
     
 #output
 
-print("La sumaes: " + str (suma))
+print ("La sumatoria total es: " + str (suma))
 
 #FIN
 
